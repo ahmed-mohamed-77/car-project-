@@ -16,5 +16,9 @@ pygame: https://www.pygame.org/docs/
 >> pip install pygame
 ```
 
+## Features
 
+- Different types of vehicles: sedans, trucks, and police cars.
+- Randomly generated colors and positions for the vehicles.
+- Simple Pygame window setup and rendering.
 
